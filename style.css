@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar img{
+height: 70px;
+}
+#header-part, #section-one{
+    background-color: #F0FFF0;
+}
+.navbar-nav li{
+padding:0px 12px;
+font-weight:bold; 
+color: black;
+}
+.sing-in-btn{
+    background-color: #21B573;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+section{
+    padding: 50px 0px 50px 0px;
+}
+.btn-class{
+    color: white;
+    outline: none;
+    border: none;
+    background-color: #21B573;
+    padding: 8px 34px;
+    border-radius: 50px;
+    cursor: pointer;    
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#tag-strong{
+    font-size: 52px;
+    font-weight: 800;
+}
+#tag-strong span{
+    color: #21B573;
+}
+.bg-color-servise{
+    background-color: #f8faf8;
+    /* background-color: #1ce272;  */
+    border-radius: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+
+}
+.bg-color-servise:hover{
+    box-shadow: 4px 4px 25px lightgray;
+    background-color: #ffff;
+}
+.servise-logo-size{
+    height: 90px;    
+}
+.card-column{
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 25px #ddd4d4;
+    border-radius: 10px;
+}
+.card{
+    padding: 20px;    
+    border: none;
+
+
+}
+.card img{
+    border-radius: 10px;
+}
+.card-img-top{
+    height: 300px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer-icon{
+    height: 30px;
+}
+#testmonial-img{
+    height: 110px;
+    border-radius: 50%;
+}
+
+.testmonial-resize{
+    max-width: 700px; 
+    margin: 0 auto;
+}
+.text-bold{
+    font-weight: 500;
+}
+.style-remove{
+    list-style: none;
+
+}
+.style-remove li{
+    padding-bottom: 10px;
+
+}
